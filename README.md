@@ -34,21 +34,21 @@ Once the operation is complete, the program returns to the main menu.
 This option sorts a list of Person objects by their first name in alphabetical order. 
 The `Person` class implements the `IComparable` interface, and the `CompareTo` method is overridden to compare two `Person` objects based on their first name.
 #### Output:
-![Output1](images/output1.png)
+![Output1](images/option1.png)
 
 ### Option 2: Sort by Age
 
 This option sorts a list of Person objects by their age from youngest to oldest. 
 The `Person` class implements the `IComparable` interface, and the `CompareTo` method is overridden to compare two `Person` objects based on their age.
 #### Output:
-![Output2](images/output2.png)
+![Output2](images/option2.png)
 
 ### Option 3: Sort by Salary
 
 This option sorts a list of Employee objects by their salary from lowest to highest. 
 The `Employee` class implements the `IComparable` interface, and the `CompareTo` method is overridden to compare two `Employee` objects based on their salary.
 #### Output:
-![Output3](images/output4.png)
+![Output3](images/option3.png)
 
 ### Option 4: Exit
 
