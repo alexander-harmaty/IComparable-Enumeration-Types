@@ -2,7 +2,9 @@
 
 (FSC-BCS-426-Lab7)
 
-This console application explores the use of C# enums and the implementation of IComparable into custom classes to compare types.
+## Output Menu
+
+![Output Menu](images/outputMenu.png)
 
 ## Assignment Context
 
@@ -11,10 +13,6 @@ This project was one of the later assignments for my C# Programming class.
 The goal of this assignment was to further explore C# by implementing enums and the IComparable interface. 
 
 This was a solo assignment made with C#, and Visual Studio 2022.
-
-## Output Menu
-
-![Output Menu](images/outputMenu.png)
 
 ## Features
 
